@@ -6,5 +6,5 @@ R
 # this will launch an R interpreter
 # type the following code into terminal
 
-myString <- "Hello, World!"
-print ( myString)
+myString <- "Hello, World!"  
+print ( myString)  
